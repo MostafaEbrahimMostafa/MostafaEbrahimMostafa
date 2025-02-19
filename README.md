@@ -36,17 +36,13 @@
 ---
 
 ### 📞 Contact Me:
-<p align="left">
-<a href="tel:+201005747258" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/phone.svg" alt="Phone" height="30" width="40" />
-</a>
-<a href="mailto:mostafa.ibrahim.qa@gmail.com" target="blank">
+<a href="mailto:mustafa.ibrahim.qa@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/mostafa-ibrahim-mostafa" target="blank">
+<a href="https://linkedin.com/in/mostafa-ibrahim-mostafa-6530b4235" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://fb.com/mostafa.alkady" target="blank">
+<a href="https://fb.com/mostafa.alkady.1004" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/mostafa.alkady.1004/" target="blank">
