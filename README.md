@@ -36,6 +36,8 @@
 ---
 
 ### 📞 Contact Me:
+![Phone Number](https://img.shields.io/badge/%20Phone-%2B20%20100%20574%207258-blue)
+
 <a href="mailto:mustafa.ibrahim.qa@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
 </a>
