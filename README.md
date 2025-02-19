@@ -1,35 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ebrahim Mostafa</h1>
-<h3 align="center">QA Engineer | Manual & API & Automation Tester</h3>
+### Hi there! 👋 I'm Mostafa Ebrahim Mostafa  
+**QA Engineer | Manual | API | Automation Tester**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaebrahimmostafa&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaebrahimmostafa" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaebrahimmostafa" alt="mostafaebrahimmostafa" /></a> </p>
+### 🏆 Certifications & Skills:
+- ✅ **ISTQB Foundation Level & Agile Methodologies**
+- 🛠 **Manual Testing** (Test Cases, Bug Reports, Regression, UAT, etc.)
+- 🔍 **API Testing** (Manual & Automation with Postman, RestAssured)
+- 🤖 **Automation Testing** (Selenium WebDriver, Cucumber, POM, TestNG)
+- 🚀 **Performance Testing** (JMeter) *(In Progress)*
 
-- 🔭 I’m recently worked on [Magento Store Automation Testing BDD](https://github.com/MostafaEbrahimMostafa/MagentoStore_AutomationBDD.git)
+---
 
-- 🌱 I’m currently learning **Performance Testing (JMeter) & Database Testing**
+### 💡 Have Experience In:  
+![Selenium](https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&logo=selenium&logoColor=ffffff)  ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=ffffff)  ![Allure Report](https://img.shields.io/badge/Allure_Report-E4405F?style=for-the-badge)  ![Extent Report](https://img.shields.io/badge/Extent_Report-0077B5?style=for-the-badge)  
+![DDT](https://img.shields.io/badge/DDT-FFA500?style=for-the-badge)  ![Chrome Options](https://img.shields.io/badge/Chrome_Options-4285F4?style=for-the-badge)  ![POM](https://img.shields.io/badge/POM-00A98F?style=for-the-badge)  ![RestAssured](https://img.shields.io/badge/RestAssured-008000?style=for-the-badge)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MostafaEbrahimMostafa](https://github.com/MostafaEbrahimMostafa)
+---
 
-- 💬 Ask me about **Manual, API, and Automation Testing**
+### 🛠 Tools & Technologies:  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=ffffff)  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![SQL Database](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)  
 
-- 📫 How to reach me **mustafa.ibrahim.qa@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qkOOm3tctGRqeKzmLv5_rjlZ1Ac3-qfR/view?usp=sharing](https://drive.google.com/file/d/1qkOOm3tctGRqeKzmLv5_rjlZ1Ac3-qfR/view?usp=sharing)
+### 🚀 Projects & Contributions:
+- 🔭 **Recently Worked On:** [Magento Store Automation Testing BDD](https://github.com/MostafaEbrahimMostafa/MagentoStore_AutomationBDD.git)
+- 🌱 **Currently Learning:** Performance Testing (JMeter) & Database Testing
+- 👨‍💻 **All Projects Available At:** [GitHub Profile](https://github.com/MostafaEbrahimMostafa)
+- 💬 **Ask Me About:** Manual, API, and Automation Testing
+- 📄 **Know More About My Experience:** [My Resume](https://drive.google.com/file/d/1qkOOm3tctGRqeKzmLv5_rjlZ1Ac3-qfR/view?usp=sharing)
+- ⚡ **Fun Fact:** I can find bugs faster than a mosquito in summer! 🐞😆
 
-- ⚡ Fun fact **I can find bugs faster than a mosquito in summer! 🐞😆**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📞 Contact Me:
 <p align="left">
-<a href="https://linkedin.com/in/mostafa ibrahim mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa ibrahim mostafa" height="30" width="40" /></a>
-<a href="https://fb.com/mostafa alkady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa alkady" height="30" width="40" /></a>
+<a href="tel:+201005747258" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/phone.svg" alt="Phone" height="30" width="40" />
+</a>
+<a href="mailto:mostafa.ibrahim.qa@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/mostafa-ibrahim-mostafa" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://fb.com/mostafa.alkady" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/mostafa.alkady.1004/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaebrahimmostafa&show_icons=true&locale=en&layout=compact" alt="mostafaebrahimmostafa" /></p>
+🔥 **Thank you for visiting my profile! Feel free to connect with me.** 🚀
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaebrahimmostafa&show_icons=true&locale=en" alt="mostafaebrahimmostafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaebrahimmostafa&" alt="mostafaebrahimmostafa" /></p>
